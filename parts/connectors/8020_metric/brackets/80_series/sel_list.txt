@@ -1,0 +1,7 @@
+bracket_4302 part_copy
+bracket_4332 part_copy
+bracket_4301 part_copy
+bracket_4336 part_copy
+bracket_4413 part_copy
+bracket_4376 part_copy
+dir_up dir
