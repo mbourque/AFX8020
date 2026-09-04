@@ -2,4 +2,6 @@
 8020-40-2050 part_copy
 8020-40-2409 part_copy
 8020-40-2045 part_copy
+8020-40-2030 part_copy
+8020-40-2033 part_copy
 dir_up dir
