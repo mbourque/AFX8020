@@ -1,3 +1,4 @@
 8020-40-4040 part_copy
 8020-40-4030-LITE part_copy
+8020-40-4002 part_copy
 dir_up dir
