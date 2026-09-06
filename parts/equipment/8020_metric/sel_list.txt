@@ -4,4 +4,5 @@
 8020-40-2045 part_copy
 8020-40-2030 part_copy
 8020-40-2033 part_copy
+8020-40-2085 asm_copy
 dir_up dir
