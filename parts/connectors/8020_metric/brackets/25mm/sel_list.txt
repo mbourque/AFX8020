@@ -1,3 +1,2 @@
 8020-25-4119 part_copy
-8020-25-4138 part_copy
 dir_up dir
