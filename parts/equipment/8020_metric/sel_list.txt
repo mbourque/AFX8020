@@ -6,5 +6,6 @@
 8020-40-2033 part_copy
 8020-40-2425 part_copy
 8020-40-2085 asm_copy
+8020-40-4445 asm_copy
 premade dir
 dir_up dir
